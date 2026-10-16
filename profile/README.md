@@ -7,7 +7,7 @@ The VOS, also known as the Whitby Laboratory, is part of the
 AIDS and Cancer Virus Program (ACVP) at the Frederick National Laboratory for Cancer 
 Research.
 
-We study human gammaherpesviruses, specifically Kaposi sarcoma herpesvirus (KSHV or HHV-8) and their role in cancer.
+We study human gammaherpesviruses, specifically Kaposi sarcoma herpesvirus (KSHV or HHV-8), and their role in cancer.
 
 Learn more:
 - [Viral Oncology Section](https://frederick.cancer.gov/research-technology/science-areas/aids-and-cancer-virus-program/sections/viral-oncology-section)
